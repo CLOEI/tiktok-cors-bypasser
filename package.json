@@ -1,0 +1,26 @@
+{
+  "name": "tiktok-cors-bypasser",
+  "version": "1.0.0",
+  "description": "A tiktok cors bypasser.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiktok",
+    "cors",
+    "tiktok",
+    "cors",
+    "cors",
+    "bypasser"
+  ],
+  "author": "Cendy",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "tough-cookie": "^4.0.0",
+    "url-regex-safe": "^2.0.2"
+  }
+}
